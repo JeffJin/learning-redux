@@ -1,0 +1,22 @@
+{
+  "name": "webpack",
+  "description": "",
+  "main": "bundle.js",
+  "authors": [
+    "jeffjin <jeff@jeffjin.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/JeffJin/web-components",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "angular": "^1.5.3"
+  }
+}
